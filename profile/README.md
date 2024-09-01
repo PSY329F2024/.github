@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+## This organization is designed for UofT PSY329 Social Psychology Laboratory Course (2024 Fall). 
 <!--
 
 **Here are some ideas to get you started:**
