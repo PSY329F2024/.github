@@ -2,8 +2,7 @@
 + This organization is designed for the UofT Social Psychology Laboratory Course (2024 Fall) 🍁. 
 + Access is limited to **enrolled students** 👩‍💻. 
 + Please email Colin if your join request has not been approved in 24 hours 🕛.
-+ If you encounter coding issues (which you 100% will), please search on the internet first 🌐.
-+ If Google cannot answer your question, you can post it on Quercus 🙋.
+
 <!--
 
 **Here are some ideas to get you started:**
