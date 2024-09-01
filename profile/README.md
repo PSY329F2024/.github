@@ -1,5 +1,7 @@
 # Hi there 👋
-## This organization is designed for UofT PSY329 Social Psychology Laboratory Course (2024 Fall). Access is only limited to enrolled students. Please email Colin if your join request has not been approved in 24 hours. 
+## +This organization is designed for UofT PSY329 Social Psychology Laboratory Course (2024 Fall) 🍁. 
+##+Access is limited to **enrolled students** 👩‍💻. 
+##+Please email Colin if your join request has not been approved in 24 hours 🕛.
 <!--
 
 **Here are some ideas to get you started:**
